@@ -1,0 +1,21 @@
+body {
+    background-image: url('e777191308391411f652261a6e8565ea(1).jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+}
+#time{
+    font-size: 500%;
+    backdrop-filter: blur(50px);
+}
+#container-box{
+    font-family: monospace;
+    display: fixed;
+    margin: auto;
+    text-align: center;
+    max-width: 350px;
+    border-radius: 50px;
+
+}
